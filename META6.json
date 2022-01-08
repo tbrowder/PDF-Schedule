@@ -1,0 +1,29 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+    "Spreadsheet::XLSX",
+    "Text::Utils",
+    "Proc::Easy",
+    "Font::AFM"
+  ],
+  "description": "Create PDF schedules from data in Excel spreadsheets",
+  "license": "Artistic-2.0",
+  "name": "PDF::Schedule",
+  "perl": "6.d",
+  "provides": {
+    "PDF::Schedule": "lib/PDF/Schedule.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

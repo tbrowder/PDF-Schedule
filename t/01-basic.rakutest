@@ -1,0 +1,6 @@
+use Test;
+use PDF::Schedule;
+
+pass "replace me";
+
+done-testing;
