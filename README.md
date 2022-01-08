@@ -1,7 +1,9 @@
+[![Actions Status](https://github.com/tbrowder/PDF-Schedule/workflows/test/badge.svg)](https://github.com/tbrowder/PDF-Schedule/actions)
+
 NAME
 ====
 
-PDF::Schedule - blah blah blah
+PDF::Schedule - Create PDF schedules from data in Excel spreadsheets
 
 SYNOPSIS
 ========

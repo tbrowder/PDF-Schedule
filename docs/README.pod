@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-PDF::Schedule - blah blah blah
+PDF::Schedule - Create PDF schedules from data in Excel spreadsheets
 
 =head1 SYNOPSIS
 
